@@ -5,6 +5,6 @@ I'm a Brazilian Programmer.
 I'm starting in world programming and I want so much to be a Software-Engineer, you may think... Why this guy want to be a software-engineer? Because, I love so much computers, phones, laptops... Mainly, Apps, Sites and the Internet!!
 
 # What's the programming languages this guy is learning?🖥️
-**Python, JavaScript** and for without be a programming language: **Html and Css**
+**Python, JavaScript, Html and Css** (I know, Html and Css isn't a programming language).
 
 **Thanks for Read!🙏**
