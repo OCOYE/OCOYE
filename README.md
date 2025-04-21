@@ -1,8 +1,8 @@
 # ``print("Hello World")``🌎
-I am a Brazilian Programmer. 🇧🇷
+I am a Brazilian Programmer.
 
 # About Me📜
-I am starting in programming and I want so much to be a Software Engineer. 🔧
+I am starting in programming and I want so much to be a Software Engineer.
 
 # Programming Languages I'm learning now🖥️
 ###### I know, Html and Css aren't programming language!!
