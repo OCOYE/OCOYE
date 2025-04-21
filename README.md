@@ -1,4 +1,4 @@
-# ``print("hello world")``🌎
+# ``print("Hello World")``🌎
 I'm a Brazilian Programmer.
 
 # If you want read about me📜
