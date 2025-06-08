@@ -1,10 +1,27 @@
 # About Me📜
-I am a Brazilian programmer and I've started the journey to become a software engineer (fullstack and desktop)
+I am a Brazilian programmer on a journey to become a desktop and fullstack software engineer!
+- 👨‍💻 Future Software Engineer (Desktop & Fullstack)
+
 ---
+
 # Technologies🖥️
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width=70px/>
+
 ---
-# Contact 📫
-Email: [manoelantonio3412@gmail.com](mailto:manoelantonio3412@gmail.com)
+
+<a href="mailto:manoelantonio3412@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 ---
+
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OCOYE&show_icons=true&theme=github_dark_dimmed&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=OCOYE&show_icons=true&show_icons=true&theme=github_dark_dimmed&count_private=true" />
+</div>
+
+---
+
+*"Drinking coffee is my superpower!"* ☕💻
+
 ***Thanks for Reading!🙏***
