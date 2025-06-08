@@ -1,10 +1,10 @@
-# ``print("Hello World")``🌎
-I am a Brazilian Programmer
-
 # About Me📜
-I am starting in programming and I want so much to be a Software Engineer (desktop and fullstack)
-
-# Programming Languages🖥️
-* **Python** <img src="https://images.icon-icons.com/112/PNG/512/python_18894.png" width="30px">
-
+I am a Brazilian programmer and I've started the journey to become a software engineer (fullstack and desktop)
+---
+# Technologies🖥️
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+---
+# Contact 📫
+Email: [manoelantonio3412@gmail.com](mailto:manoelantonio3412@gmail.com)
+---
 ***Thanks for Reading!🙏***
