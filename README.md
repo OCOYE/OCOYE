@@ -19,7 +19,10 @@ I am a Brazilian programmer on a journey to become a desktop and fullstack softw
 <a href="mailto:manoelantonio3412@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
+<a href=https://x.com/OcoyeGamer9824"">
+<img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" />
+<a/>
+  
 *"Drinking coffee is my superpower!"* ☕💻
 
 ***Thanks for Reading!🙏***
