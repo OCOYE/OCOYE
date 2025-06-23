@@ -19,10 +19,10 @@ I am a Brazilian programmer on a journey to become a desktop and fullstack softw
 
 
 <a href="mailto:manoelantonio3412@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://x.com/OcoyeGamer9824">
-<img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" />
+<a href="https://stackexchange.com/users/41781224/manoel-ant%c3%94nio">
+<img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white"/>
 <a/>
   
 *"Drinking coffee is my superpower!"* ☕💻
