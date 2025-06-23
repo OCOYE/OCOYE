@@ -8,7 +8,7 @@ I am a Brazilian programmer on a journey to become a desktop and fullstack softw
 
 
 ## Technologies🖥️
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width=70px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=70px />
 
 
 
