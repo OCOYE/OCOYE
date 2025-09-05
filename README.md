@@ -20,7 +20,7 @@ I am a Brazilian programmer on a journey to become a desktop and fullstack softw
 </div>
 
 
-<a href="mailto:manoelantonio3412@gmail.com">
+<a href="mailto:manoelantonio3412@proton.me">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://stackoverflow.com/users/30446256/">
