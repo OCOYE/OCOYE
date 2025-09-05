@@ -21,7 +21,7 @@ I am a Brazilian programmer on a journey to become a desktop and fullstack softw
 
 
 <a href="mailto:manoelantonio3412@proton.me">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
 </a>
 <a href="https://stackoverflow.com/users/30446256/">
 <img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white"/>
