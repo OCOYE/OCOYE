@@ -17,7 +17,7 @@ I am a Brazilian programmer on a journey to become a computer scientist
 </div>
 
 
-<a href="mailto:manoelantonio3412@proton.me">
+<a href="mailto:manoelrezende70@proton.me">
   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
 </a>
   
