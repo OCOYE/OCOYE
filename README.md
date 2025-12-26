@@ -11,8 +11,7 @@ I am a Brazilian programmer on a journey to become a computer scientist
 
 
 
-  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
-</a>
+
   
 *"Drinking coffee is my superpower!"* ☕💻
 
