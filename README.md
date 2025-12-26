@@ -3,9 +3,6 @@
 # 💻 Manoel Rezende
 ## About Me📜
 I am a Brazilian programmer on a journey to become a computer scientist
-
-## Technologies🖥️
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=70>
           
         
 
@@ -13,7 +10,7 @@ I am a Brazilian programmer on a journey to become a computer scientist
 
 
 
-<a href="mailto:manoelrezende70@proton.me">
+
   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
 </a>
   
