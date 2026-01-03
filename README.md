@@ -1,16 +1,20 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=&color=3d72db&reversal=false&section=header">
 
-<!--
-**OCOYE/OCOYE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Manoel
+## About Me📜
+I am a Brazilian programmer on a journey to become a computer scientist
+          
+        
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+  
+*"Drinking coffee is my superpower!"* ☕💻
+
+***Thanks for Reading!🙏***
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=&color=3d72db&reversal=false&section=footer">
